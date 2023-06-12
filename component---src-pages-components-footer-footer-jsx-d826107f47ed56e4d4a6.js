@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkakshayvilekar_me=self.webpackChunkakshayvilekar_me||[]).push([[175],{2177:function(e,t,a){a.r(t),a.d(t,{default:function(){return s}});var r=a(7294);function s(){return r.createElement("div",{className:"bg-violet-900 py-12 sm:py-12"},r.createElement("div",{className:"mx-96 max-w-7xl"},r.createElement("div",{className:"text-base text-center tracking-tight text-white"},"© Copyright 2023 | Akshay Vilekar")))}}}]);
+//# sourceMappingURL=component---src-pages-components-footer-footer-jsx-d826107f47ed56e4d4a6.js.map
